@@ -29,6 +29,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'rails-controller-testing'
 
+
+gem 'bcrypt',  '3.1.12'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
