@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'rails-controller-testing'
 
+gem 'bootstrap-sass'
 
 gem 'bcrypt',  '3.1.12'
 
